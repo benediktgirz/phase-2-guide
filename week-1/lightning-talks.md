@@ -18,6 +18,7 @@ Everyone will do a lightning talk every week. To volunteer for a talk:
 ## Thursday
 
 ## Friday
+Benedikt: Sinatra: yield, layout.erb and  Partials
 
 ## Available Talks
 * What is the  arrange act assert pattern?
